@@ -1,0 +1,13 @@
+This is a project for analyzing music preferences on the Yandex.Music service by users of Moscow and St. Pete.
+Goal: Hypothesis testing
+a) User activity depends on the day of the week. Moscow and St. Pete this manifests itself in different ways.
+b) On Monday mornings, certain genres of music dominate in Moscow, while others dominate in St. Pete. This is true for Friday evening as well.
+c) Moscow and St. Petersburg prefer different genres of music. In Moscow, they listen to pop music more often, in St. Petersburg - Russian rap.
+Python, the Pandas library are used.
+
+Это проект по анализу музыкальных предпочтений на сервисе Яндекс.Музыка пользователей из Москвы и Петербурга
+Цель: проверка гипотез.
+a) Активность пользователей зависит от дня недели. Причём в Москве и Петербурге это проявляется по-разному.
+b) Утром в понедельник в Москве преобладают одни жанры музыки, а в Петербурге — другие. Это верно и для вечера пятницы.
+c) Москва и Петербург предпочитают разные жанры музыки. В Москве чаще слушают поп-музыку, в Петербурге — русский рэп.
+Исользуется Python, библиотека Pandas.
