@@ -1,0 +1,9 @@
+#Reserch apprtments for sale
+Goal: Determine the parameters that affect the prices of apartments for sale
+Data source real estate sales service Yandex.Real Estate
+Used Python, librerarys Pandas, NumPy, Pymysteam3, Matplotlib
+
+Исследование по квартирам на продажу
+Цель исследования: определить параметры, влияющие на стоимость квартир
+Источник данных сервис по продаже недвижимости Яндекс.Недвижимость
+Используется Python, библиотеки Pandas, NumPy, Pymysteam3, Matplotlib
