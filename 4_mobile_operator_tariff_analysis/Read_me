@@ -1,0 +1,15 @@
+# Mobile operator tariff analysis
+Goal: analysis of tariffs of mobile operators by average revenue.
+Data source: mobile operator user data.
+Hipoteses: 
+a) the average revenue of users of the Ultra and Smart tariffs differ.
+b) the average revenue of users from Moscow differs from the revenue of users from other regions.
+Used Python, librerarys Pandas, NumPy, SciPy, Math, Matplotlib, Seaborn
+
+Аанализ тарифов мобильного оператора
+Цель: анализ тарифов мобильного оператора по средней выручке.
+Источник данных: Данные пользователей мобильного опретора.
+Гипотезы:
+a) средняя выручка с пользователей тарифа Ультра и  тарифа Смарт различается.
+b) средняя выручка пользователей из Москвы отличается от выручки пользователей из других регионов.
+Использованы Python, библиотеки Pandas, NumPy, SciPy, Math, Matplotlib, Seaborn.
