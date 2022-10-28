@@ -1,0 +1,15 @@
+# Gold recovery prediction model
+Tasks:
+Prepare data.
+Conduct exploratory data analysis.
+Build and train the model.
+Source "Цифра"
+Used Pandas, Seaborn, Sklearn, Numpy, Matplotlib
+
+Модель предсказания коэффициента восстановления золота.
+Задачи:
+ Подготовьте данные
+ Проанализируйте данные
+ Постройте модель
+Источник данных "Цифра"
+Использованы Pandas, Seaborn, Sklearn, Numpy, Matplotlib
