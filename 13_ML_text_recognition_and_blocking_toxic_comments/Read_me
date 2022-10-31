@@ -1,0 +1,10 @@
+# ML text recognition and blocking toxic comments
+Task: Train the model to classify comments into positive and negative. There is a data set with markup on the toxicity of edits.
+Build a model with F1 quality metric value not less than 0.75
+Data source online store
+Used Pandas, NLTK, Re, LightGBM, Sklearn
+
+Обучите модель классифицировать комментарии на позитивные и негативные. Есть набор данных с разметкой о токсичности правок.
+Постройте модель со значением метрики качества F1 не меньше 0.75
+Источник данных интернет магазин
+Использованы Pandas, NLTK, Re, LightGBM, Sklearn
