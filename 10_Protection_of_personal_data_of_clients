@@ -1,0 +1,8 @@
+# Protection of personal data of clients.
+Task: Protection of personal data of insurance clients. Data transformation should not affect the quality of the risk assessment model.
+Sourse: insurance company.
+Used Pandas, Numpy, Sklearn.
+
+Задача: Защита персональных данных клиентов страховой компании. Трансформация данных не должна влиять на качество модели оценки рисков.
+Источник данных страховая компания.
+Использованы Pandas, Numpy, Sklearn.
