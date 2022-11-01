@@ -1,9 +1,0 @@
-Task: build a classification model that will select the appropriate rate to recommend for customers with archived rates.
-Build the model with accuracy >= 0.75
-Source: data of mobile operator.
-Used Pandas, Sklearn, Seaborn.
-
-Задача построить модель классификации, которая выберет подходящий тариф к рекомендации для клиентов с архивными тарифами.
-Постройте модель с значением accuracy >= 0,75
-Источник: данные мобильного оператора
-Использованы Pandas, Sklearn, Seaborn.
