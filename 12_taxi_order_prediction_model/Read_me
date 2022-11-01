@@ -1,9 +1,0 @@
-#taxi orders prediction model
-Task: build a taxi order prediction model to optimize the number of taxi service taxi drivers. RMSE metric <= 48
-Source: data orders taxi service.
-Used Pandas, Numpy, Matplotlib, Sklearn, LightGBM, Optuna, Statsmodel, Time
-
-Модель предсказания заказов такси
-Задача: постороить модель заказов такси для оптимизации количества таксистов. Метрика RMSE не больше 48.
-Источник: данные о заказах сервиса такси.
-Использованы Pandas, Numpy, Matplotlib, Sklearn, LightGBM, Optuna, Statsmodel, Time.
