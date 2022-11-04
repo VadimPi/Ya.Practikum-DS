@@ -162,9 +162,6 @@
   </tr>
 
   <tr>
-  <td  colspan="3" align = "center"><b>Модуль 4</b></td>
-  </tr>
-  <tr>
   <td  colspan="3" align = "center"><b>Выпускной проект</b></td>
   </tr>
 
